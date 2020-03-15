@@ -1,6 +1,6 @@
 ![Logo](/src/DBZ/Ressourcen/logo.png)
 
-![Icon](preview.gif)
+![Preview](preview.gif)
 
 See it in action: https://www.youtube.com/watch?v=OzUPiuepd0Q
 
@@ -42,14 +42,19 @@ When using a gamepad, the ← / ↑ / ↓ / → keys are mapped to the joystick.
 Gamepads can assign two extra buttons for simplified triggering of the Special and ultimate attack, 
 but the combos can still be activated with the existing button combinations.
 
-Some information about the combo moves:
-
-- **Special attack:** Depends on your fighter, for example Kamehameha with goku
-- **Ultimate attack:** Depends on your fighter, for example Spirit-Bomb with goku
-- **Ki lightnings:** Ki lightnings can be seen below the Ki-meter and with lightning effects around your fighter. They greatly increase the power (and in some cases the size) of your next ultimate attack.
-
 Furthermore there are some hidden mechanics like heavy/speed attacks and dragon teleports. 
 You can figure them out by trying or looking at the code (not recommended) :)
+
+### Battle Overlay
+
+![instructions](instructions_0.png)
+
+- **Health** : If it reaches 0, you lose 
+- **Ki (Energy)** : Required for lots of special moves, can be filled with the Ki-Charging move
+- **Ki Lightnings**: They greatly increase the power (and in some cases the size) of your next ultimate attack. 
+- **Endurance** : Taking a beating will reduce your endurance, if it reaches 0 your fighter will be stunned for a while. Re-fills automatically. 
+
+Some fighters are cyborgs and behave slightly different. A cyborg can not charge Ki, so your Ki charging move will do nothing. Cyborgs Ki will slowly fill automatically and you can fill it faster by attacking the enemy. 
 
 ### Cheats
 
