@@ -1,5 +1,9 @@
 ![Logo](/src/DBZ/Ressourcen/logo.png)
 
+![Icon](preview.gif)
+
+See it in action: https://www.youtube.com/watch?v=OzUPiuepd0Q
+
 ## How to play
 
 ![Icon](/src/DBZ/Ressourcen/icon.png)
