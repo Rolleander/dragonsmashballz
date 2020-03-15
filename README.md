@@ -51,6 +51,21 @@ Some information about the combo moves:
 Furthermore there are some hidden mechanics like heavy/speed attacks and dragon teleports. 
 You can figure them out by trying or looking at the code (not recommended) :)
 
+### Cheats
+
+Fighters and items have to be unlocked with the in-game currency (Zeni). 
+
+Items can be bought and given to characters, but do not have an effect on the fights yet (Unfinished feature).
+
+If you dont feel like unlocking, here are some cheats that can be typed while being in the menu:
+
+Cheatcode | Effect
+------------ | -------------
+**helpmegoku** | Unlock all fighters
+**thxvegeta** | Lock all fighters (except the starting fighters)
+**capsulecorp** | Unlock all items
+**itsover9000** | +99999 Zeni
+
 ## General information
 
 I started working on this game in highschool with not much experience in programming before. Hence the code quality is really poor.
