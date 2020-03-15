@@ -10,6 +10,8 @@ See it in action: https://www.youtube.com/watch?v=OzUPiuepd0Q
 
 Download and extract newest zip from Releases (https://github.com/Rolleander/dragonsmashballz/releases).
 
+Latest version: https://github.com/Rolleander/dragonsmashballz/releases/download/v1.0/DragonSmashBallZ_v1.0.zip
+
 The software does not need installation, everything is contained in the folder.
 
 Settings and save data is stored under *BRollGames\DragonSMASHBall* in your user folder. 
