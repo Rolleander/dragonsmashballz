@@ -113,6 +113,12 @@ Keep in mind this is code written by a Kiddo teaching himself programming with l
 
 Even if its not the greatest, at least there is some package structure.
 The project originated in **DBZ/** and thats also where the Main class is located.
+
+The worst code of the whole thing is for sure the fighter implementation. You would think every character
+is implemented in its own class, or have some form of configuration file. But no, that would be too easy. 
+Instead, two classes realize all 65 fighters: **Fight/FighterData** and **Fight/FighterSpecials**. 
+Inside of them are giant switch statements for cases specifying the attributes and special moves for each fighter.
+
 Different resources are kept in different folders all over the workspace:
 
 - **Charactersounds/** Fighter sounds
